@@ -18,7 +18,7 @@ namespace CA2
             while (i < 4)
             {
                 Console.WriteLine(texts);
-                Console.WriteLine("\n Random: {0}", texts);
+                Console.WriteLine("\n Random: {0}", texts); 
             }
         }
     }
